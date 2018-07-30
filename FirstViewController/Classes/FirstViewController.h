@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : FirstViewController
+@interface FirstViewController : UIViewController
 @property (nonatomic,copy) NSString *navTitle;
 @end
