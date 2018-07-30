@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FirstViewController_Tests' do
+  pod 'FirstViewController', :path => '../'
+  
+  
+end
