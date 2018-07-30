@@ -1,0 +1,16 @@
+PODS:
+  - FirstViewController (0.1.0)
+
+DEPENDENCIES:
+  - FirstViewController (from `../`)
+
+EXTERNAL SOURCES:
+  FirstViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FirstViewController: b5eae2cc9bcc8c180a4afc2875dbe5548eb221fb
+
+PODFILE CHECKSUM: e22fda64f55d497ca7e8817b0d07482cc85d1c0f
+
+COCOAPODS: 1.5.3

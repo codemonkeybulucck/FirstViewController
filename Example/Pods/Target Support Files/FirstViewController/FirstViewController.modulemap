@@ -1,0 +1,6 @@
+framework module FirstViewController {
+  umbrella header "FirstViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

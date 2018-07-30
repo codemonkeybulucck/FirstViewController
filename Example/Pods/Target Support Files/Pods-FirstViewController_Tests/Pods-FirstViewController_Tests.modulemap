@@ -1,0 +1,6 @@
+framework module Pods_FirstViewController_Tests {
+  umbrella header "Pods-FirstViewController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
